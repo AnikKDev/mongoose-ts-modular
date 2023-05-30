@@ -10,8 +10,8 @@ async function main() {
       log.info("listening to port" + port);
     });
     log.info("mongodb connection established");
-  } catch (err) {
-    log.error("error connecting to mongo");
+  } catch (err: any) {
+    log.error(err.message);
   }
 }
 main();
