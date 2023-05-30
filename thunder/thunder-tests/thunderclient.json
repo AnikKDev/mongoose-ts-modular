@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "92014155-eff2-4c80-9fc6-75018604e598",
+    "colId": "9a1c7201-f96f-47da-9f88-e6c364403349",
+    "containerId": "",
+    "name": "test collection",
+    "url": "http://localhost:8000/persons",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-05-30T10:33:03.411Z",
+    "modified": "2023-05-30T10:33:03.411Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
