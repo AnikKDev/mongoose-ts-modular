@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "_id": "75538ba3-c2ee-4a8f-b8b8-0a7b1593ddfd",
+    "name": "ROOTAPI",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-05-30T12:43:28.597Z",
+    "modified": "2023-05-30T12:43:28.597Z",
+    "data": [
+      {
+        "name": "ROOTAPI",
+        "value": "http://localhost:8000/api/v1"
+      }
+    ]
+  }
+]

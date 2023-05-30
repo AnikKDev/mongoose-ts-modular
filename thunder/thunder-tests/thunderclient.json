@@ -4,11 +4,11 @@
     "colId": "9a1c7201-f96f-47da-9f88-e6c364403349",
     "containerId": "",
     "name": "test collection",
-    "url": "http://localhost:8000/persons",
+    "url": "{{ROOTAPI}}/users/all-users",
     "method": "GET",
     "sortNum": 10000,
     "created": "2023-05-30T10:33:03.411Z",
-    "modified": "2023-05-30T10:33:03.411Z",
+    "modified": "2023-05-30T12:43:59.987Z",
     "headers": [],
     "params": [],
     "tests": []
