@@ -1,7 +1,7 @@
 import express, { Application } from "express";
 import cors from "cors";
 import "dotenv/config";
-import router from "./app/modules/users/users.router";
+import ejs from "ejs";
 const app: Application = express();
 
 // using cors

@@ -12,5 +12,19 @@
     "headers": [],
     "params": [],
     "tests": []
+  },
+  {
+    "_id": "d8872d8f-707b-4168-8360-2fc0a6f60ae1",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:8000",
+    "url": "http://localhost:8000",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-05-30T12:52:59.433Z",
+    "modified": "2023-05-30T12:52:59.433Z",
+    "headers": [],
+    "params": [],
+    "tests": []
   }
 ]
